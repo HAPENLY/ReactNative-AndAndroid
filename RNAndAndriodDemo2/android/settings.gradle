@@ -1,0 +1,3 @@
+rootProject.name = 'RNAndAndriodDemo2'
+
+include ':app'
