@@ -13,6 +13,8 @@ A : 网上有你未必会使用,所以我整个傻瓜版.直接 run
 
 [原地址](http://download.csdn.net/download/asddavid/9695358)
 
+[如果你想看文字介绍可以看下这个](http://blog.csdn.net/u013718120/article/details/55506238)
+
 额 ! 也没啥知识点,会用就行了,挺简单的如果搞不定可以加这个群:@我
 
 点击链接加入群[ReactNative-解决问题交流群](https://jq.qq.com/?_wv=1027&k=4EZwdSd) :644124441
