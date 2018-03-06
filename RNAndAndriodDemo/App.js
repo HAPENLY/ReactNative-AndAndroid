@@ -83,7 +83,7 @@ getDeviceEventEmitterTime() {
 }
 
 getCallBackTime() {
-    NativeModules.TransMissonMoudle.callBackTime("Allure",
+    NativeModules.TransMissonMoudle.callBackTime("ZPengs",
         (msg) => {
             console.log(msg);
             ToastAndroid.show("CallBack收到消息:" + "\n" + msg, ToastAndroid.SHORT)
@@ -94,7 +94,7 @@ getCallBackTime() {
 }
 
 getPromiseTime() {
-    NativeModules.TransMissonMoudle.sendPromiseTime("Allure").then(msg=> {
+    NativeModules.TransMissonMoudle.sendPromiseTime("ZPengs").then(msg=> {
         console.log("年龄:" + msg.age + "/n" + "时间:" + msg.time);
         ToastAndroid.show("Promise收到消息:" + "\n" + "年龄:" + msg.age + "时间:" + msg.time, ToastAndroid.SHORT)
 
